@@ -1,0 +1,7 @@
+## Interface: 16001
+## Title: Tagger
+## Notes: Temporarily bind the mouse wheel to a class-appropriate quest-mob tag spell.
+## Author: Stevin
+## Version: 1.0.0
+
+Tagger.lua
