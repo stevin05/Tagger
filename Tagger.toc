@@ -1,7 +1,8 @@
 ## Interface: 16001
 ## Title: Tagger
-## Notes: Temporarily bind the mouse wheel to a class-appropriate quest-mob tag spell.
+## Notes: Target and ping a named mob or quest NPC with the mouse wheel.
 ## Author: Stevin
 ## Version: 1.0.0
+## SavedVariablesPerCharacter: TaggerDB
 
 Tagger.lua
